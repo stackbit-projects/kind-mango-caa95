@@ -34,7 +34,7 @@ sections:
           Alien 1 is a happy outdoorsy type of guy. His attributes include robot
           anntenne, Miami shades, and a pipe. 
         align: left
-        image: images/feature.svg
+        image: /images/1.jpg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
