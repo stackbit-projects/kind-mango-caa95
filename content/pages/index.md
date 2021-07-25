@@ -9,7 +9,7 @@ sections:
       blogs, social meadia, or however you would like.
     actions:
       - label: MarketPlace
-        url: 'https://rarible.c'
+        url: 'https://rarible.com/alienpop'
         style: primary
       - label: Contact Us
         url: /contact
