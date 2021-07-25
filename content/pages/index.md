@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: AlienPop NFTs
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Programmatically generated alien avatars minted into non-fungible tokens.
+      Each NFT comes with a unlockable 128x128 avatar for you to use on your
+      blogs, social meadia, or however you would like.
     actions:
       - label: Learn More
         url: /features
