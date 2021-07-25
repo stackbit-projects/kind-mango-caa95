@@ -8,7 +8,7 @@ sections:
       Each NFT comes with a unlockable 128x128 avatar for you to use on your
       blogs, social meadia, or however you would like.
     actions:
-      - label: Learn More
+      - label: MarketPlace
         url: /features
         style: primary
       - label: Contact Us
