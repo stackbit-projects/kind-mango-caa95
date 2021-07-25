@@ -43,10 +43,9 @@ sections:
             style: secondary
             new_window: true
       - title: Alien 2
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Alien 2 is a ultra rare alien. He only has one attribute, his robot
+          antenne. The less attributes a alien has, the more rare he is.
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
