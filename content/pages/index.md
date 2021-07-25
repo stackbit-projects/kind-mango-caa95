@@ -55,17 +55,6 @@ sections:
             url: /features
             style: secondary
     title: Available Now
-  - type: cta_section
-    title: This Is A CTA
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    actions:
-      - label: Learn More
-        url: /features
-        style: primary
-    has_background: true
-    background_color: gray
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
