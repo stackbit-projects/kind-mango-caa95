@@ -9,7 +9,7 @@ sections:
       blogs, social meadia, or however you would like.
     actions:
       - label: MarketPlace
-        url: /features
+        url: htt
         style: primary
       - label: Contact Us
         url: /contact
