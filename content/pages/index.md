@@ -51,7 +51,7 @@ sections:
         image_alt: Alien 3
         image_position: left
         actions:
-          - label: Learn More
+          - label: Purchase
             url: /features
             style: secondary
       - title: Feature 3
