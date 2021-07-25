@@ -47,7 +47,7 @@ sections:
           Alien 2 is a ultra rare alien. He only has one attribute, his robot
           antenne. The less attributes a alien has, the more rare he is.
         align: left
-        image: images/feature.svg
+        image: /images/famous-eggplant.png
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
