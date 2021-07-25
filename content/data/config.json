@@ -21,7 +21,8 @@
                 "style": "link"
             }
         ],
-        "logo": "/images/blue-whale.png"
+        "logo": "/images/blue-whale.png",
+        "logo_alt": "Alien"
     },
     "footer": {
         "has_nav": true,
