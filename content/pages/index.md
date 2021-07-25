@@ -35,7 +35,8 @@ sections:
         image_position: right
         actions:
           - label: Purchase
-            url: /features
+            url: >-
+              https://rarible.com/token/0x60f80121c31a0d46b5279700f9df786054aa5ee5:1146306?tab=bids
             style: secondary
             new_window: true
       - title: Alien 2
