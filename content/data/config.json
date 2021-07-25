@@ -4,7 +4,16 @@
     "header": {
         "title": "AlienPop",
         "has_nav": true,
-        "nav_links": [],
+        "nav_links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ],
         "logo": "/images/blue-whale.png",
         "logo_alt": "AlienPop logo"
     },
