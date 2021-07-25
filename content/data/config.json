@@ -30,7 +30,7 @@
                 "type": "action"
             },
             {
-                "label": "lMarketplace",
+                "label": "Marketplace",
                 "url": "#",
                 "style": "link",
                 "new_window": false,
