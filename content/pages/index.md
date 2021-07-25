@@ -55,10 +55,6 @@ sections:
             url: /features
             style: secondary
     title: Available Now
-  - type: blog_feed_section
-    show_recent: true
-    recent_count: 2
-    title: From Our Blog
   - type: cta_section
     title: This Is A CTA
     subtitle: >-
