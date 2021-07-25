@@ -4,14 +4,7 @@
     "header": {
         "title": "AlienPop",
         "has_nav": true,
-        "nav_links": [
-            {
-                "label": "About",
-                "url": "/about",
-                "style": "link",
-                "new_window": true
-            }
-        ],
+        "nav_links": [],
         "logo": "/images/blue-whale.png",
         "logo_alt": "AlienPop logo"
     },
