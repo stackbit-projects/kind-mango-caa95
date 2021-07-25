@@ -17,7 +17,7 @@
                 "label": "Twitter",
                 "url": "https://twitter.com/AlienPop7",
                 "style": "link",
-                "new_window": false,
+                "new_window": true,
                 "no_follow": false,
                 "type": "action"
             }
