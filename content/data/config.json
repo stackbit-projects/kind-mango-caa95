@@ -15,14 +15,6 @@
                 "url": "/about",
                 "style": "link",
                 "new_window": true
-            },
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ],
         "logo": "/images/blue-whale.png",
