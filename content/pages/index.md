@@ -58,7 +58,7 @@ sections:
   - type: blog_feed_section
     show_recent: true
     recent_count: 3
-    title: From our Blog
+    title: From Our Blog
   - type: cta_section
     title: This Is A CTA
     subtitle: >-
