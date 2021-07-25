@@ -48,7 +48,7 @@ sections:
           antenne. The less attributes a alien has, the more rare he is.
         align: left
         image: /images/famous-eggplant.png
-        image_alt: Feature 2 placeholder image
+        image_alt: Alien 3
         image_position: left
         actions:
           - label: Learn More
