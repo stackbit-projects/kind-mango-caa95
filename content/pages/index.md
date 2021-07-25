@@ -12,10 +12,6 @@ sections:
         url: 'https://rarible.com/alienpop'
         style: primary
         new_window: true
-      - label: Contact Us
-        url: /contact
-        style: secondary
-        new_window: true
     align: left
     image: /images/download (22)-COLLAGE.jpg
     image_alt: Hero placeholder image
