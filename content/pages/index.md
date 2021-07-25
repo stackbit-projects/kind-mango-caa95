@@ -11,6 +11,7 @@ sections:
       - label: MarketPlace
         url: 'https://rarible.com/alienpop'
         style: primary
+        new_window: true
       - label: Contact Us
         url: /contact
         style: secondary
